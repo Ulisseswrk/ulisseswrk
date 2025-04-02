@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🐛 Debugging my way through Machine Learning<br>💻 Frontend experience, currently diving into Backend  <br>📊 Learning the magic of Data Science<br>🎯 Goal: Become a versatile tech professional regardless of the program language I'm using</p>
+<p align="left">🐛 Debugging my way through Machine Learning<br>💻 Frontend experience, currently diving into Backend  <br>📊 Learning the magic of Data Science<br>🎯 Goal: Become a versatile tech professional, no matter the programming language I use</p>
 
 ###
 
@@ -27,9 +27,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ulisseswrk/ulisseswrk/output/snake.svg" alt="Snake animation" />
 
 ###
