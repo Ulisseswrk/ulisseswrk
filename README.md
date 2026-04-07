@@ -35,8 +35,8 @@ I am a Software Engineering student at FIAP, specializing in Data Science, Machi
 
 ### 🚀 Key Projects
 
-* **Mantu:** A predictive maintenance application for motorcycles. It implements Regression and Random Forest algorithms to identify component wear patterns and maintenance cycles.
-* **PosturAI:** A real-time Computer Vision system for postural monitoring. Developed with Python, OpenCV, and a modern interface built with React and Tailwind CSS.
+* **Mantu:** A predictive maintenance application for motorcycles using XGBoost algorithms to identify component wear patterns and maintenance cycles.
+* **PosturAI:** A postural monitoring system developed with Computer Vision using OpenCV and MediaPipe, featuring a modern interface built with React and Tailwind CSS.
 * **Watercall:** An interactive web application for environmental awareness featuring flood risk simulations and dynamic quizzes.
 
 ---
