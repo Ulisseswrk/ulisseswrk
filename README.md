@@ -1,4 +1,4 @@
-# Hi there, I'm Ulisses Ribeiro! 👋
+# Hi there, I'm Ulisses! 👋
 
 I am a Software Engineering student at FIAP, specializing in Data Science, Machine Learning, and data-driven product development. I have practical experience building MVPs, predictive modeling, computer vision, and data pipelines using Python and PostgreSQL.
 
