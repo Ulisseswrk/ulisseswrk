@@ -43,4 +43,4 @@ I am a Software Engineering student at FIAP, specializing in Data Science, Machi
 📫 **How to reach me:**
 
 * [LinkedIn](https://www.linkedin.com/in/ulisses-abreu/)
-* ✉️ Ulisses.wrk@gmail.com
+* Ulisses.wrk@gmail.com
